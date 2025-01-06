@@ -38,7 +38,7 @@ To compile and run this game, you need the following:
 
 ## Screenshot
 
-![Screenshot](ss2.png)
+![Screenshot](./ss2.PNG)
 
 ## Contributions
 
